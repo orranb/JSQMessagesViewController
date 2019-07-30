@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
 
 	s.author = 'Jesse Squires'
 	s.social_media_url = 'https://twitter.com/jesse_squires'
+	s.homepage = 'http://www.kaymera.com'
 
 	s.screenshots = ['https://raw.githubusercontent.com/jessesquires/JSQMessagesViewController/develop/Screenshots/screenshot0.png',
                     'https://raw.githubusercontent.com/jessesquires/JSQMessagesViewController/develop/Screenshots/screenshot1.png',
